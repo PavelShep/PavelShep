@@ -20,7 +20,7 @@ Hi,I'm a beginner Web Developer. Apart from that I love getting involved in Comp
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40"  height="40"/>&nbsp;
   </a>
   <a href="https://rubyonrails.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="50" height="40"/>&nbsp;
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
