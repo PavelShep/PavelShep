@@ -58,4 +58,4 @@ Hi,I'm a beginner Web Developer. Apart from that I love getting involved in Comp
 </div>
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShep&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelShep&theme=blueberry)
