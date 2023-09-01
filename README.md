@@ -9,7 +9,7 @@ Hi,I'm a beginner Web Developer. Apart from that I love getting involved in Comp
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m studying in the university 
-- 🌱 I’m currently learning Ruby on Rails 7
+- 🌱 I’m currently learning HTML, CSS, Javascript and Ruby on Rails
 - 👯 Part of Developer Community
 - 💬 Ask me about anything, Would love to answer them ✌
 - 📝[Portfolio](https://pavelshep.github.io/CV/)
